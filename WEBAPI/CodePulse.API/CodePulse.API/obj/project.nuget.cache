@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oysB2GqFJY=",
+  "dgSpecHash": "fRr/ln3S9to=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohammad Furquan\\Documents\\Codeplus-Project-Udemy\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+  "projectFilePath": "C:\\Users\\Mohammad Furquan\\Documents\\Codeplus-Project-Udemy - GIT\\WEBAPI\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad Furquan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mohammad Furquan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
